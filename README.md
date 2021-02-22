@@ -1,9 +1,11 @@
-### Hola soy Abelardo 👋
+### Hola 👋, Soy Abelardo
+#### Soy Ingeniero de software y backend developer en .NET 
+Me gusta el desarrollo de sofware como fullstack (aunque mi fuerte es el backend y base de datos).  
 
-Soy desarrollador de sotware en tecnologías .NET principalmente C#. 
+Habilidades:  REACT / JS / HTML / CSS / C# / Transact SQL / PHP / MySql  
 
-Here are some ideas to get you started:
+- 🌱 Estoy aprendiendo React js, .Net Core 
+- 📫 Cómo contactarme: a.irarrazabal.d@gmail.com 
 
-- 🔭 Actualmente trabajo en Corporación de Capacitación CChC
-- 🌱 Ingeniero de software en constante aprendizaje de nuevas tecnologías
-- 👯 Me encuentro profundizando conocimiento en Javascript
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/airarrazabald)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/airarrazabald//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/airarrazabald)  
+
